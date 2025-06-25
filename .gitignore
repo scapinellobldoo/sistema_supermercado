@@ -1,0 +1,10 @@
+# Ignorar arquivos de dados locais
+produtos.json
+vendas.json
+
+# Ignorar caches e arquivos temporários do Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
